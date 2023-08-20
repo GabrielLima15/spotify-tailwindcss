@@ -1,4 +1,5 @@
-![Capa]()
+![image](https://github.com/GabrielLima15/spotify-tailwindcss/assets/77641643/840ee0a1-3aa0-4f32-baf0-87e7fc3a3a83)
+
 
 ## 👨🏽‍💻 Stack
 
