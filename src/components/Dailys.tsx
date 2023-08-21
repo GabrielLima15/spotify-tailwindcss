@@ -99,7 +99,7 @@ export const Dailys = () => {
             {daily.imageDaily}
             <button
               className={clsx(
-                'invisible absolute bottom-3 right-2 flex h-12 w-12  translate-y-full items-center justify-center rounded-full bg-green-400 pl-1 text-black transition delay-300 duration-200 ease-in-out group-hover:visible',
+                ' invisible absolute bottom-3 right-2 flex h-12 w-12 items-center justify-center rounded-full  bg-green-400 pl-1 text-black transition delay-300 duration-200 group-hover:visible',
                 {
                   'invisible translate-y-0 shadow-lg shadow-zinc-600':
                     isHover[index],
